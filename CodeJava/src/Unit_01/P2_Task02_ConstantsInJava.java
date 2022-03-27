@@ -14,7 +14,7 @@ public class P2_Task02_ConstantsInJava {
 	public static void main(String[] args) {
 	      
 		System.out.println(pi);
-		main("Ragini");
+		main("Aanchal");
 	}
 	public static void main(String args)
 	{
